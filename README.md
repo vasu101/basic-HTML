@@ -74,4 +74,4 @@ This project is open-source and free to use for educational and personal purpose
 
 ## ✍️ Author
 
-**Nishant Singh** – [LinkedIn](#) | [Email](#) | [Preply](#)
+**Nishant Singh** – [LinkedIn](https://www.linkedin.com/in/nishant-singh-shekhawat/) | [Email](nishantshekhawat1@gmail.com)
